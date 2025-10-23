@@ -45,3 +45,5 @@ while True:
         print("Opção inválida.")
 
 print("Fim:", datetime.now())
+
+"aaa"
